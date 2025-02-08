@@ -1,0 +1,4 @@
+import math
+blind=int(input())
+radius=int(input())
+print(math.pi*(radius**2-blind**2))
