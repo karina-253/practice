@@ -1,0 +1,3 @@
+x = float(input('Введите исходное число:'))
+result = x - 4
+print('Результат:', result)
