@@ -1,4 +1,4 @@
 import math
-blind=int(input())
+blindzone=int(input())
 radius=int(input())
-print(math.pi*(radius**2-blind**2))
+print(math.pi*(radius**2-blindzone**2))
