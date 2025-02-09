@@ -3,5 +3,5 @@ airline1 = input('название авиакомпании(на русском 
 airline2 = input('название авиакомпании(на английском языке):')
 city1 = input('город прилета(на русском языке):')
 city2 = input('город прилета(на английском языке):')
-print('Заканчивается посадка на рейс авиакомпании S7 до Москвы')
-print('This is the final boarding call for S7Airlines flight 174 to Moscow')
+print('Заканчивается посадка на рейс', flightnumber, 'авиакомпании', airline1, 'до', city1)
+print('This is the final boarding call for', airline2, 'flight', flightnumber, 'to', city2)
